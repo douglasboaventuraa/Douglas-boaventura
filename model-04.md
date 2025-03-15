@@ -2,11 +2,13 @@
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
 
-# 🚀 Olá, eu sou [Seu Nome] - Software Developer 
+# 🚀 Olá, eu sou Douglas Boaventura - Software Developer 
 
 ## Sobre mim
 
-✨ Sou um(a) desenvolvedor(a) apaixonado(a) por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+✨ Atuo na área de tecnologia há mais de 5 anos, iniciando minha jornada como QA, onde desenvolvi automações de testes para aplicações web e mobile utilizando Appium e selenium. Com o tempo, minha paixão pelo desenvolvimento me levou a migrar para a área de back-end, onde hoje trabalho com Java e o ecossistema Spring.
+
+Minha experiência abrange a construção de APIs robustas e escaláveis, sempre seguindo as melhores práticas do desenvolvimento de software e claro, utilizando minhas experiências como QA. Trabalho com metodologias ágeis, especialmente Scrum, e tenho um perfil proativo, voltado para a solução de problemas e otimização de processos. Estou sempre em busca de aprender e aplicar soluções eficientes que impactem positivamente os projetos nos quais atuo. ✨
 
 ## Habilidades Tecnológicas
 
@@ -14,26 +16,16 @@
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=spring,selenium,hibernate)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
-- Desenvolvimento Web:
-
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
-## Projetos Criativos
-
-🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
-
-1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição emocionante do projeto e como ele mudou o mundo.
-2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
-3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,intelij)](https://skillicons.dev)
 
 ## Vamos Criar Algo Incrível! 💫
 
@@ -41,8 +33,6 @@
 
 ## Vamos Conectar!
 
-[![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
-[![Facebook](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link})
+[![Linkedin](https://img.shields.io/badge/-{douglas-boaventura}-blue?style=flat-square&logo=linkedin&logoColor=white&link={[Link](https://www.linkedin.com/in/douglas-boaventura-33a251220/)})]({[Link](https://www.linkedin.com/in/douglas-boaventura-33a251220/)})
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)
+![Douglas-Boaventura GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Boaventura\&rank_icon=percentile)
