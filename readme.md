@@ -16,7 +16,7 @@ Minha experiência abrange a construção de APIs robustas e escaláveis, sempre
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,python,c,node)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=spring,selenium,hibernate)](https://skillicons.dev)
