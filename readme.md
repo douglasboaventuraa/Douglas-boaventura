@@ -35,4 +35,4 @@ Minha experiência abrange a construção de APIs robustas e escaláveis, sempre
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/douglasboaventuraa)
 
-![Douglas-Boaventura GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Boaventura\&rank_icon=percentile)
+![Douglas-Boaventura GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasboaventuraa\&rank_icon=percentile)
