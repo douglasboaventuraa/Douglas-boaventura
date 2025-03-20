@@ -33,6 +33,6 @@ Minha experiência abrange a construção de APIs robustas e escaláveis, sempre
 
 ## Vamos Conectar!
 
-[![Linkedin](https://img.shields.io/badge/-{douglas-boaventura}-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-boaventura-33a251220/)](https://www.linkedin.com/in/douglas-boaventura-33a251220/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/douglasboaventuraa)
 
 ![Douglas-Boaventura GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Boaventura\&rank_icon=percentile)
